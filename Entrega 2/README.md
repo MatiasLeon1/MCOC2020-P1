@@ -1,7 +1,7 @@
 # Entrega 2
 
 # Ecuacion de espacio del sistema:
-\dot{Z2}=\frac{-G\cdot M}{r^2}\cdot \bar{Z1}-R^{_{T}}\left ( \ddot{R}\cdot \bar{Z1} + 2\cdot \dot{R}\cdot\bar{Z2}  \right )
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large \dot{Z2}=\frac{-G\cdot M}{r^2}\cdot \bar{Z1}-R^{_{T}}\left ( \ddot{R}\cdot \bar{Z1} + 2\cdot \dot{R}\cdot\bar{Z2}  \right )  />
 
 Suponiendo que el satelite Sentinel 1-A esta orbitando a 700 Km sobre la superficie terrestre, utilice la formula de velocidad orbital `Vorb = (GMT/r^2)^1/2` para encontrar la velocidad minima que debia poseer el satelite para mantenerse en orbita. 
 Siendo G la constante de gravitacion universal, MT la masa de la Tierra y r el radio de la orbita. Cnosiderando lo anterior, el satelite Sentinel 1-A debe poseer una velocidad minima `Vt = 7507,798 [m/s]` para mantenerse en orbita. A modo de poseen un margen de error y no trabajar al limite, definí la velocidad de orbita del satelite en `Vt'= 7510 [m/s]`.
