@@ -1,6 +1,6 @@
 # Entrega 2
 
-# Ecuacion de espacio del sistema:
+### Ecuacion de espacio del sistema:
 ![CodeCogsEqn](https://user-images.githubusercontent.com/43649125/91514637-41453280-e8b5-11ea-902c-76adefc0a3c4.gif)
 
 Suponiendo que el satelite Sentinel 1-A esta orbitando a 700 Km sobre la superficie terrestre, utilice la formula de velocidad orbital `Vorb = (GMT/r^2)^1/2` para encontrar la velocidad minima que debia poseer el satelite para mantenerse en orbita. 
