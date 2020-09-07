@@ -25,6 +25,7 @@ Dado que la capacidad de mi computador no me permite iterar hasta encontrar la s
 ![P2 DIstancia real J2](https://user-images.githubusercontent.com/43649125/92340173-b839b280-f08f-11ea-9388-e5b9ce04fea8.png)
 
 ![Deriva odeint_eulerint J2](https://user-images.githubusercontent.com/43649125/92340190-c4257480-f08f-11ea-9dc9-c3f94e1fcf6c.png)
+En este grafico se aprecia la deriva entre Odeint con la correccion J2 
 
 ### Corrección J2 + J3
 ![Posicion J2+J3](https://user-images.githubusercontent.com/43649125/92340148-a3f5b580-f08f-11ea-9b18-093ffcd40598.png)
@@ -32,3 +33,4 @@ Dado que la capacidad de mi computador no me permite iterar hasta encontrar la s
 ![P2 DIstancia real J2+J3](https://user-images.githubusercontent.com/43649125/92340177-ba9c0c80-f08f-11ea-8d62-4aa6fbb9cb25.png)
 
 ![Deriva odeint_eulerint J3](https://user-images.githubusercontent.com/43649125/92340193-c687ce80-f08f-11ea-993b-83579352836f.png)
+En este grafico se aprecia la deriva entre Odeint con las correcciones J2 + J3
