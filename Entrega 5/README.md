@@ -12,10 +12,10 @@ Vemos que tanto Odeint como Eulerint comienzan desde el mismo punto, sin embargo
 
 ## P3
 
-Para esta pregunta generé 500 subdivisiones y el tiempo de ejecucion fue de 57:36 segundos en mi PC. Se adjunta grafico con los resultados.
+Para esta pregunta generé 500 subdivisiones y el tiempo de ejecucion fue de 1687.0518 segundos en mi PC. Se adjunta grafico con los resultados.
 ![Deriva Nsub_500](https://user-images.githubusercontent.com/43649125/92339255-92aaaa00-f08b-11ea-8b02-ef9f1a069550.png)
 
-Dado que la capacidad de mi computador no me permite iterar hasta encontrar la solucion requerida es que pregunte a distintos compañeros de clase que valores obtuvieron ellos. Llegue a la conclusion de que para poder llegar a un error menor al 1% hace falta hacer mas de 10000 subdivisiones.
+La distancia maxima que aparece en el grafico esta errada. Eulerint alcanzo una distancia de `2515.042 Kilometros`. Al calcular el error restando la distancia de Euelerint con la distancia de Oilerint y dividiendo esto por la distancia de Oilerint, me dio que el `error fue de 816,28%`.Dado que la capacidad de mi computador no me permite iterar hasta encontrar la solucion requerida es que pregunte a distintos compañeros de clase que valores obtuvieron ellos. Llegue a la conclusion de que para poder llegar a un error menor al 1% hace falta hacer mas de 10.000 subdivisiones. De hecho, con 10.000 iteraciones recien se llega a un error aproximado de 5%
 
 ## P4
 
@@ -25,7 +25,8 @@ Dado que la capacidad de mi computador no me permite iterar hasta encontrar la s
 ![P2 DIstancia real J2](https://user-images.githubusercontent.com/43649125/92340173-b839b280-f08f-11ea-9388-e5b9ce04fea8.png)
 
 ![Deriva odeint_eulerint J2](https://user-images.githubusercontent.com/43649125/92340190-c4257480-f08f-11ea-9dc9-c3f94e1fcf6c.png)
-En este grafico se aprecia la deriva entre Odeint con la correccion J2 
+
+En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J2 
 
 ### Corrección J2 + J3
 ![Posicion J2+J3](https://user-images.githubusercontent.com/43649125/92340148-a3f5b580-f08f-11ea-9b18-093ffcd40598.png)
@@ -33,4 +34,5 @@ En este grafico se aprecia la deriva entre Odeint con la correccion J2
 ![P2 DIstancia real J2+J3](https://user-images.githubusercontent.com/43649125/92340177-ba9c0c80-f08f-11ea-8d62-4aa6fbb9cb25.png)
 
 ![Deriva odeint_eulerint J3](https://user-images.githubusercontent.com/43649125/92340193-c687ce80-f08f-11ea-993b-83579352836f.png)
-En este grafico se aprecia la deriva entre Odeint con las correcciones J2 + J3
+
+En este grafico se aprecia la deriva entre Odeint y Eulerint con las correcciones J2 + J3
