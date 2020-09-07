@@ -12,7 +12,7 @@ Vemos que tanto Odeint como Eulerint comienzan desde el mismo punto, sin embargo
 
 ## P3
 
-Para esta pregunta generé 500 subdivisiones y el tiempo de ejecucion fue de 1687.0518 segundos en mi PC. Se adjunta grafico con los resultados.
+Para esta pregunta generé 500 subdivisiones y el tiempo de ejecucion fue de 1687,0518 segundos en mi PC. Se adjunta grafico con los resultados.
 
 ![Deriva Nsub_500](https://user-images.githubusercontent.com/43649125/92339255-92aaaa00-f08b-11ea-8b02-ef9f1a069550.png)
 
