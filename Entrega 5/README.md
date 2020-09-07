@@ -28,7 +28,7 @@ La distancia maxima que aparece en el grafico esta errada. Eulerint alcanzo una 
 
 ![REAL+J2](https://user-images.githubusercontent.com/43649125/92341204-5d09bf00-f093-11ea-9b0b-f37de286666b.png)
 
-En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J2 
+En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J2. El tiempo de ejecución fue de `12,592 [s]`. La deriva es de `19392.2 Kilometros`
 
 ### Corrección J2 + J3
 ![Posicion J2+J3](https://user-images.githubusercontent.com/43649125/92340148-a3f5b580-f08f-11ea-9b18-093ffcd40598.png)
@@ -37,4 +37,4 @@ En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J
 
 ![REAL+J2+J3](https://user-images.githubusercontent.com/43649125/92341205-5e3aec00-f093-11ea-8b70-fe9ff5838b65.png)
 
-En este grafico se aprecia la deriva entre Odeint y Eulerint con las correcciones J2 + J3
+En este grafico se aprecia la deriva entre Odeint y Eulerint con las correcciones J2 + J3. EL tiempo de ejecución fue de `7.915 [s]`. La deriva es de `19395.6 Kilometros`.
