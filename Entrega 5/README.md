@@ -4,7 +4,8 @@
 ![P1 Posicion Real](https://user-images.githubusercontent.com/43649125/92336207-a696e180-f074-11ea-8d1a-38d80b2cff21.png)
 
 ## P2
-![Deriva odeint_eulerint](https://user-images.githubusercontent.com/43649125/92336706-cb418800-f079-11ea-94ec-f38cc2d5e018.png)
+![REAL](https://user-images.githubusercontent.com/43649125/92341206-5e3aec00-f093-11ea-98e8-d79daa0593bc.png)
+
 
 El grafico anterior corresponde a la deriva de Eulerint y Odeint en funcion del tiempo, utilizando `Nsubdiviciones = 1`.
 
@@ -25,7 +26,7 @@ La distancia maxima que aparece en el grafico esta errada. Eulerint alcanzo una 
 
 ![P2 DIstancia real J2](https://user-images.githubusercontent.com/43649125/92340173-b839b280-f08f-11ea-9388-e5b9ce04fea8.png)
 
-![Deriva odeint_eulerint J2](https://user-images.githubusercontent.com/43649125/92340190-c4257480-f08f-11ea-9dc9-c3f94e1fcf6c.png)
+![REAL+J2](https://user-images.githubusercontent.com/43649125/92341204-5d09bf00-f093-11ea-9b0b-f37de286666b.png)
 
 En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J2 
 
@@ -34,6 +35,6 @@ En este grafico se aprecia la deriva entre Odeint y Eulerint con la correccion J
 
 ![P2 DIstancia real J2+J3](https://user-images.githubusercontent.com/43649125/92340177-ba9c0c80-f08f-11ea-8d62-4aa6fbb9cb25.png)
 
-![Deriva odeint_eulerint J3](https://user-images.githubusercontent.com/43649125/92340193-c687ce80-f08f-11ea-993b-83579352836f.png)
+![REAL+J2+J3](https://user-images.githubusercontent.com/43649125/92341205-5e3aec00-f093-11ea-8b70-fe9ff5838b65.png)
 
 En este grafico se aprecia la deriva entre Odeint y Eulerint con las correcciones J2 + J3
